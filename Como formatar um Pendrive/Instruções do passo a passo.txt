@@ -1,0 +1,9 @@
+# Formate seu pendrive através do seu Windows.
+
+##siga o passo a passo abaixo!! 
+
+1.Abra o Explorador de Arquivos e clique em Meu Computador na barra lateral;
+2.Selecione o seu pen drive, clique com o botão direito e clique em Formatar…;
+3.Deixe as opções como vieram de fábrica. Atente-se apenas ao Sistema de arquivos, que normalmente é FAT32 mas você pode escolher NTFS (como na imagem) apenas se o seu pen drive precisar de arquivos maiores que 4 GB e não for ser usado em um Mac;
+4.Clique em Iniciar.
+Pronto!
